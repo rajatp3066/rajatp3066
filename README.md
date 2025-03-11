@@ -31,8 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
 ## 📊 Skills & Projects Overview  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary" />
@@ -50,22 +48,18 @@
 
 ### 🔥 **Most Used Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&langs_count=6&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🚀 **Types of Projects**  
 - **📊 Data Analysis & Visualization**  
-  - Sales Data Analysis (Power BI)  
-  - IPL Data Analytics (Python, Tableau)  
-  - Smart Home Energy Optimization  
+  - 📈 **Sales Data Analysis** (Power BI, SQL, Excel)  
+  - 🏏 **IPL Data Analytics** (Python, Matplotlib, Seaborn)  
+  - ⚡ **Smart Home Energy Optimization** (Python, Power BI)  
 
 - **📈 Predictive Modeling & Machine Learning**  
-  - Startup Acquisition Prediction (Python, Scikit-learn)  
-  - Diabetes Data Prediction  
-
-- **📡 Web Scraping & Automation**  
-  - Amazon Reviews Scraper  
-  - Financial Data Extraction  
+  - 🚀 **Startup Acquisition Prediction** (Python, Scikit-learn)  
+  - 🏥 **Diabetes Data Prediction** (Python, Pandas, ML Models)  
 
 ---
 
@@ -73,6 +67,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ## 🔗 Let's Connect
