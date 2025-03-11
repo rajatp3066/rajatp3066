@@ -40,7 +40,7 @@
 
 ## 🔗 Let's Connect
 📧 **Email:** [Yahoo](mailto:rajatk.patel@yahoo.com)  
-💼 **LinkedIn:** [linkedin.com/](https://www.linkedin.com/in/rp17/)   
+💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/rp17/)   
 
 ---
 
