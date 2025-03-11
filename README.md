@@ -53,9 +53,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&langs_count=8&layout=compact&theme=radical" alt="Top Languages & Tools" />
 </p>
 
+---
 
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
+
 
 ## 🚀 **Projects & Contributions**  
 
@@ -82,4 +88,3 @@
 💼 **LinkedIn**: [linkedin](https://linkedin.com/in/rp17)  
 
 ⭐ **If you find my work useful, don’t forget to star the repository!** ⭐  
-
