@@ -55,13 +55,6 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 
 ## 🚀 **Projects & Contributions**  
 
@@ -90,13 +83,11 @@
 
 
 ---
-## 🔥 GitHub Streak Stats – Keep the Momentum Going!  
-
+## 📊 **GitHub Stats**  
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
 ## 📌 GitHub Profile Summary  
