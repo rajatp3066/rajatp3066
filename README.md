@@ -15,8 +15,22 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
+
+### 📊 **Data Analysis & Processing**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20&%20Data%20Cleaning-FF6F00?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets%20Automation-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
+
+### 📈 **Machine Learning & Statistics**  
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression%20Models-FF6F00?style=for-the-badge&logo=ml&logoColor=white" />
 </p>
 
 ---
@@ -40,12 +54,13 @@
 </p>
 
 
+
 ---
 
 ## 🚀 **Projects & Contributions**  
 
 ### 📊 **Data Analysis & Visualization**  
-- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/sales-analysis) _(Power BI, SQL, Excel)_  
+- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard) _(Power BI, SQL, Excel)_  
 - 🏏 [**IPL Data Analytics**](https://github.com/rajatp3066/ipl-data-eda) _(Python, Matplotlib, Seaborn)_  
 - ⚡ [**Smart Home Energy Optimization**](https://github.com/rajatp3066/energy-optimization) _(Python, Power BI)_  
 
