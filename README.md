@@ -66,12 +66,12 @@
 ## 🚀 **Projects & Contributions**  
 
 ### 📊 **Data Analysis & Visualization**  
-- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard) _(Power BI, SQL, Excel)_  
-- 🏏 [**IPL Data Analytics**](https://github.com/rajatp3066/ipl-data-eda) _(Python, Matplotlib, Seaborn)_  
-- ⚡ [**Smart Home Energy Optimization**](https://github.com/rajatp3066/energy-optimization) _(Python, Power BI)_  
+- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard)_(Power BI, SQL, Excel)_  
+- 🏏 [**IPL Data Analytics**](https://github.com/rajatp3066/EDA-for-IPL-Dataset)_(Python, Matplotlib, Seaborn)_  
+- ⚡ [**Smart Home Energy Optimization**](https://github.com/rajatp3066/smart-home-energy-optimization)_(Python, Power BI)_  
 
 ### 📈 **Predictive Modeling & Machine Learning**  
-- 🚀 [**Startup Acquisition Prediction**](https://github.com/rajatp3066/startup-acquisition) _(Python, Scikit-learn)_  
+- 🚀 [**Startup Acquisition Prediction**](https://github.com/rajatp3066/Predictive-Analysis-of-Startup-Acquisition-Status) _(Python, Scikit-learn)_  
 - 🏥 [**Diabetes Data Prediction**](https://github.com/rajatp3066/diabetes-analysis) _(Python, Pandas, ML Models)_  
 
 ---
