@@ -7,6 +7,14 @@
 🔹 Strong **problem-solving skills** and ability to work with **large datasets.**  
 
 ---
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajatp3066&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
+
+---
 ## 🚀 Technical Skills  
 
 <p align="center">
@@ -83,6 +91,10 @@
 
 
 ---
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
 ---
@@ -92,18 +104,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
----
-## 🔥 GitHub Streak Stats  
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🔥 Keep the streak alive! 🔥</b><br>
-  💻 Consistency in coding helps build expertise! 🚀
-</p>
 
 
