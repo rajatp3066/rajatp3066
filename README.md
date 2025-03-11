@@ -8,29 +8,30 @@
 
 ---
 
-## 🚀 Technical Skills  
+## 🚀 Technical Skills & Tools  
 
-### 📊 **Data Analysis & Visualization**  
-✔ Python (Pandas, NumPy, Matplotlib, Seaborn)  
-✔ Power BI, Tableau  
-✔ SQL (PostgreSQL, MySQL)  
-✔ Excel (Pivot Tables, VLOOKUP, Macros)  
-
-### 📂 **Data Engineering & Processing**  
-✔ ETL & Data Cleaning  
-✔ Google Sheets Automation (App Scripts, Excel Macros)  
-
-### 📈 **Machine Learning & Statistics**  
-✔ Scikit-Learn, Regression Models  
-✔ A/B Testing, Hypothesis Testing  
-
-### 🛠 **Tools & Technologies**  
-✔ Jupyter Notebook, VS Code  
-✔ Git & GitHub  
-✔ APIs (RESTful, JSON)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-02569B?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
 ---
 
+## 🔥 Most Used Languages & Tools  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&langs_count=8&layout=compact&theme=radical" alt="Top Languages & Tools" />
+</p>
 ## 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
