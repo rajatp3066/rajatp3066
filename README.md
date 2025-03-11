@@ -7,8 +7,7 @@
 🔹 Strong **problem-solving skills** and ability to work with **large datasets.**  
 
 ---
-
-## 🚀 Technical Skills & Tools  
+## 🚀 Technical Skills  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,8 +17,15 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools & Technologies  
+
+<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-02569B?style=for-the-badge&logo=json&logoColor=white" />
@@ -32,15 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&langs_count=8&layout=compact&theme=radical" alt="Top Languages & Tools" />
 </p>
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-### 🔥 **Most Used Languages**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&langs_count=6&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
@@ -66,7 +64,7 @@
 
 ## 📬 **Connect With Me**  
 📧 **Email**: [Email](mailto:rajatk.patel@yahoo.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/rp17)  
+💼 **LinkedIn**: [linkedin](https://linkedin.com/in/rp17)  
 
 ⭐ **If you find my work useful, don’t forget to star the repository!** ⭐  
 
