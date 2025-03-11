@@ -90,13 +90,20 @@
 
 
 
-## 📌 GitHub Contributions & Activity  
+## 📌 Year-Wise GitHub Contributions & Activity  
 
+### **📅 Contributions in 2024**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary 2024" />
 </p>
 
+### **🔥 Contribution Streak for 2024**  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak 2024" />
 </p>
+
+### **📊 Yearly Contributions Overview**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical&hide=stars&include_all_commits=true&count_private=true" alt="Yearly GitHub Stats"
+
 
