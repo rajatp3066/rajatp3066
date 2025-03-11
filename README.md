@@ -87,3 +87,16 @@
 💼 **LinkedIn**: [linkedin](https://linkedin.com/in/rp17)  
 
 ⭐ **If you find my work useful, don’t forget to star the repository!** ⭐  
+
+
+
+## 📌 GitHub Contributions & Activity  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
