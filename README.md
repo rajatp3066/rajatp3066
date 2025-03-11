@@ -22,12 +22,7 @@
 
 ---
 
-## 📌 Featured Projects
-🔹 **[📊 EDA on IPL Dataset](https://github.com/rajatp3066/ipl-data-analysis)**  
-🔹 **[📈 Sales Dashboard in Power BI](https://github.com/rajatp3066/sales-dashboard)**  
-🔹 **[📊 Customer Segmentation using SQL](https://github.com/rajatp3066/customer-segmentation)**  
-
-📌 **More Projects:** [GitHub Repositories](https://github.com/rajatp3066?tab=repositories)
+📌 **Projects:** [GitHub Repositories](https://github.com/rajatp3066?tab=repositories)
 
 ---
 
