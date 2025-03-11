@@ -1,9 +1,9 @@
-# 👋 Hi there! I'm Rajat 🚀  
+# 👋 Hi there! I'm Rajatkumar Patel 🚀  
 
 ## 📌 About Me  
 🔹 **Aspiring Data Analyst** passionate about turning data into insights.  
 🔹 Experienced in **Data Analysis, Visualization, and SQL Querying.**  
-🔹 Exploring **Power BI, Advanced Excel (Spreadsheets), and Tableau.**  
+🔹 Exploring **Advanced Excel (Spreadsheets), Power BI and Tableau.**  
 🔹 Strong **problem-solving skills** and ability to work with **large datasets.**  
 
 ---
@@ -66,13 +66,12 @@
 ## 🚀 **Projects & Contributions**  
 
 ### 📊 **Data Analysis & Visualization**  
-- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard)_(Power BI, SQL, Excel)_  
-- 🏏 [**IPL Data Analytics**](https://github.com/rajatp3066/EDA-for-IPL-Dataset)_(Python, Matplotlib, Seaborn)_  
-- ⚡ [**Smart Home Energy Optimization**](https://github.com/rajatp3066/smart-home-energy-optimization)_(Python, Power BI)_  
+- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard)_(Power BI, DAX)_  
+- 🏏 [**IPL Data Analytics**](https://github.com/rajatp3066/EDA-for-IPL-Dataset)_(Python, Matplotlib, Seaborn, Numpy, Pandas)_  
+- ⚡ [**Smart Home Energy Optimization**](https://github.com/rajatp3066/smart-home-energy-optimization)_(Python, ARIMA, Pandas, Numpy, Seaborn, Matplotlib)_  
 
 ### 📈 **Predictive Modeling & Machine Learning**  
-- 🚀 [**Startup Acquisition Prediction**](https://github.com/rajatp3066/Predictive-Analysis-of-Startup-Acquisition-Status) _(Python, Scikit-learn)_  
-- 🏥 [**Diabetes Data Prediction**](https://github.com/rajatp3066/diabetes-analysis) _(Python, Pandas, ML Models)_  
+- 🚀 [**Startup Acquisition Prediction**](https://github.com/rajatp3066/Predictive-Analysis-of-Startup-Acquisition-Status) _(Python, Scikit-learn)_    
 
 ---
 
