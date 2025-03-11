@@ -1,13 +1,8 @@
-<h1 align="center">Hi there, I'm Rajat! 👋</h1>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatp3066&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ## 📌 About Me
-🔹 **Aspiring Data Analyst** with a passion for turning data into insights.  
+🔹 **Aspiring Data Analyst** passionate about turning data into insights.  
 🔹 Experienced in **Data Analysis, Visualization, and SQL Querying**.  
-🔹 Exploring **Machine Learning, Power BI, and Tableau**.  
+🔹 Exploring **Power BI, Advanced Excel(Spreadsheet) and Tableau**.  
 🔹 Strong problem-solving skills and ability to work with large datasets.  
 
 ## 🚀 Technical Skills
@@ -44,9 +39,8 @@
 ---
 
 ## 🔗 Let's Connect
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+📧 **Email:** [Yahoo](mailto:rajatk.patel@yahoo.com)  
+💼 **LinkedIn:** [linkedin.com/in/Rajatkumar Patel](https://www.linkedin.com/in/rp17/)   
 
 ---
 
