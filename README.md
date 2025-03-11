@@ -6,12 +6,7 @@
 🔹 Exploring **Advanced Excel (Spreadsheets), Power BI and Tableau.**  
 🔹 Strong **problem-solving skills** and ability to work with **large datasets.**  
 
----
-## 👀 Profile Views  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatp3066&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views Counter" />
-</p>
 
 
 ---
@@ -103,6 +98,22 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary" />
 </p>
+
+---
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajatp3066&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
+---
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajatp3066&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+
 
 
 
