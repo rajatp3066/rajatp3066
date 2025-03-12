@@ -103,7 +103,7 @@
 ## 👀 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatp3066&label=PROFILE+VIEWS&color=purple&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=rajatp3066&label=PROFILE+VIEWS&color=yellow&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 ---
