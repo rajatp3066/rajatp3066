@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Rajatkumar Patel 🚀  
 
 ## 📌 About Me  
-🔹 **Aspiring Data Analyst** passionate about turning data into insights.  
+🔹 **Aspiring Data Analyst** passionate about turning data into insights.
 🔹 Experienced in **Data Analysis, Visualization, and SQL Querying.**  
 🔹 Exploring **Advanced Excel (Spreadsheets), Power BI and Tableau.**  
 🔹 Strong **problem-solving skills** and ability to work with **large datasets.**  
