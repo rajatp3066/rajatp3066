@@ -1,120 +1,77 @@
 # 👋 Hi there! I'm Rajatkumar Patel 🚀  
 
 ## 📌 About Me  
-🔹 **Aspiring Data Analyst** passionate about turning data into insights.
-🔹 Experienced in **Data Analysis, Visualization, and SQL Querying.**  
-🔹 Exploring **Advanced Excel (Spreadsheets), Power BI and Tableau.**  
-🔹 Strong **problem-solving skills** and ability to work with **large datasets.**  
-
-
-
-
----
-## 🚀 Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### 📊 **Data Analysis & Processing**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%20&%20Data%20Cleaning-FF6F00?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets%20Automation-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-</p>
-
-### 📈 **Machine Learning & Statistics**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression%20Models-FF6F00?style=for-the-badge&logo=ml&logoColor=white" />
-</p>
+🔹 **Aspiring Data Scientist & AI/ML Enthusiast** passionate about solving complex problems and driving innovation with data. Currently pursuing a **Post Graduate Diploma in Data Science (GTU)**, focusing on **Machine Learning, Statistics, and Exploratory Data Analysis (EDA)**.  
+🔹 Building strong expertise in **predictive modeling, feature engineering, and AI-driven analytics** for future roles in **AI/ML and Data Science**.  
+🔹 Experienced in **data visualization, automation, and statistical analysis**, with hands-on exposure to **Python, SQL, Power BI, and Tableau**.  
 
 ---
 
-## 🛠 Tools & Technologies  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-02569B?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+## 🎓 Education  
+- **Post Graduate Diploma in Data Science** – Gujarat Technological University _(Jul 2025 – Apr 2026)_  
+- **B.Tech in Electronics and Telecommunication** – Symbiosis International University _(Jul 2016 – May 2020)_  
 
 ---
 
-## 🔥 Most Used Languages & Tools  
+## 🚀 Technical Skills  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatp3066&langs_count=8&layout=compact&theme=radical" alt="Top Languages & Tools" />
-</p>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Statistics-008080?style=for-the-badge&logoColor=white" />  
+  <img src="https://img.shields.io/badge/EDA%20%26%20Data%20Cleaning-FF6F00?style=for-the-badge&logo=data&logoColor=white" />  
+</p>  
 
----
+### **Visualization & BI Tools**  
+- Power BI, Tableau, Google Data Studio, Advanced Excel, Google Sheets Automation  
 
-
-## 🚀 **Projects & Contributions**  
-
-### 📊 **Data Analysis & Visualization**  
-- 📈 [**Sales Data Analysis**](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard)_(Power BI, DAX)_  
-- 🏏 [**IPL Data Analytics**](https://github.com/rajatp3066/EDA-for-IPL-Dataset)_(Python, Matplotlib, Seaborn, Numpy, Pandas)_  
-- ⚡ [**Smart Home Energy Optimization**](https://github.com/rajatp3066/smart-home-energy-optimization)_(Python, ARIMA, Pandas, Numpy, Seaborn, Matplotlib)_  
-
-### 📈 **Predictive Modeling & Machine Learning**  
-- 🚀 [**Startup Acquisition Prediction**](https://github.com/rajatp3066/Predictive-Analysis-of-Startup-Acquisition-Status) _(Python, Scikit-learn)_    
+### **Core Competencies**  
+- Data Preprocessing, Feature Engineering, Statistical Analysis, Model Evaluation, Predictive Analytics  
+- Git/GitHub, Workflow Automation, APIs  
 
 ---
 
-## 🌱 **Currently Learning**  
-- **Power BI & Advanced DAX Calculations**  
-- **Advanced SQL (CTEs, Window Functions, Optimization)**  
-- **Statistical Analysis for Business Intelligence**  
+## 💼 Experience  
+- **Data Analyst Intern – Smartprep Academy** _(Mar 2025 – Jun 2025)_  
+  - Built dashboards, automated reports, and analyzed engagement data to optimize operations.  
+- **Data Visualization Associate – Excelerate** _(Jan 2024 – Feb 2024)_  
+  - Streamlined pipelines and developed dashboards reducing processing time by 30%.  
+- **Data Analyst Intern – Technocolabs Software Inc.** _(Apr 2023 – Jun 2023)_  
+  - Developed predictive models and automated preprocessing, boosting accuracy by 18%.  
+- **Graduate Apprentice – Software Technology Parks of India (STPI)** _(Sep 2021 – Aug 2022)_  
+  - Performed system analysis and monitored network metrics, improving uptime and efficiency.  
 
 ---
 
-## 📬 **Connect With Me**  
-📧 **Email**: [Email](mailto:rajatk.patel@yahoo.com)  
-💼 **LinkedIn**: [linkedin](https://linkedin.com/in/rp17)  
-
-⭐ **If you find my work useful, don’t forget to star the repository!** ⭐  
-
-
----
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatp3066&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+## 📊 Projects  
+- **IPL Exploratory Data Analysis** – Python, Pandas, Matplotlib, Seaborn [View Project](https://github.com/rajatp3066/EDA-for-IPL-Dataset)  
+- **Sales Data Analysis Dashboard** – Power BI, DAX [View Project](https://github.com/rajatp3066/Sales-Data-Analysis-Dashboard)  
+- **Smart Home Energy Optimization** – Python, ARIMA, Pandas, Seaborn [View Project](https://github.com/rajatp3066/smart-home-energy-optimization)  
+- **Startup Acquisition Prediction** – Python, Scikit-learn [View Project](https://github.com/rajatp3066/Predictive-Analysis-of-Startup-Acquisition-Status)  
 
 ---
-## 📌 GitHub Profile Summary  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatp3066&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
----
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatp3066&label=PROFILE+VIEWS&color=yellow&style=for-the-badge" alt="Profile Views Counter" />
-</p>
+## 📜 Certifications  
+- Google Data Analytics (Coursera)  
+- SQL for Data Analytics (Udemy)  
+- Microsoft Power BI for Business Analytics (Udemy)  
+- Advanced Excel (Udemy)  
 
 ---
-## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajatp3066&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+## 🌱 Currently Learning  
+- Machine Learning Algorithms & Model Deployment  
+- Advanced Statistics & Hypothesis Testing  
+- AI/ML for Business and Predictive Insights  
 
+---
 
+## 📬 Connect With Me  
+- **Email:** [rajatk.patel@yahoo.com](mailto:rajatk.patel@yahoo.com)  
+- **LinkedIn:** [linkedin.com/in/rp17](https://www.linkedin.com/in/rp17/)  
+- **GitHub:** [github.com/rajatp3066](https://github.com/rajatp3066)  
 
+---
 
-
-
+⭐ _If you find my work inspiring, don’t forget to star my repositories!_ ⭐
