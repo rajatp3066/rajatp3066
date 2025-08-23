@@ -41,12 +41,6 @@
 * **Data Analyst Intern – Smartprep Academy** *(Mar 2025 – Jun 2025)*
 
   * Built dashboards, automated reports, and analyzed engagement data to optimize operations.
-* **Data Visualization Associate – Excelerate** *(Jan 2024 – Feb 2024)*
-
-  * Streamlined pipelines and developed dashboards reducing processing time by 30%.
-* **Data Analyst Intern – Technocolabs Software Inc.** *(Apr 2023 – Jun 2023)*
-
-  * Developed predictive models and automated preprocessing, boosting accuracy by 18%.
 * **Graduate Apprentice – Software Technology Parks of India (STPI)** *(Sep 2021 – Aug 2022)*
 
   * Performed system analysis and monitored network metrics, improving uptime and efficiency.
